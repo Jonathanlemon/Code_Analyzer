@@ -1,0 +1,1 @@
+{"enginePath": "../engine/cppcheck-2.8/cppcheck", "flags": {"enables": ["missingInclude", "information", "portability", "performance", "style"], "language": "c++", "xml": ""}, "includes": [], "excludes": ["/home/lab/Desktop/working/embedded/utilities"], "suppressions": [], "defines": []}
